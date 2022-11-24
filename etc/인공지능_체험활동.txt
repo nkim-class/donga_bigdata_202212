@@ -1,0 +1,8 @@
+AI Activity
+- 플레이그라운드: https://playground.tensorflow.org
+- 퀵드로우: https://quickdraw.withgoogle.com/
+- 오토드로우: https://www.autodraw.com/
+- 페이크페이스: https://www.whichfaceisreal.com/index.php
+- 바다환경을 위한 AI: https://code.org/oceans
+- 티쳐블머신: https://teachablemachine.withgoogle.com/
+- 모랄머신: https://www.moralmachine.net/hl/kr
