@@ -1,4 +1,5 @@
 AI Activity
+- https://www.hellosoft.fun/aidemo/
 - 플레이그라운드: https://playground.tensorflow.org
 - 퀵드로우: https://quickdraw.withgoogle.com/
 - 오토드로우: https://www.autodraw.com/
